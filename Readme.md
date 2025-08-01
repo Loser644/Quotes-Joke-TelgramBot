@@ -1,6 +1,6 @@
 # 🤖 Coding Freaks Bot — A Telegram Bot for Quotes & Jokes
 
-**Coding Freaks Bot** is a simple yet engaging Telegram bot built using **Node.js**, **Python**, and the **Telegraf API**. It delivers random motivational quotes and developer jokes to users, along with an intuitive inline keyboard to navigate through content. The bot is ideal for adding a dose of motivation or humor to your day.
+**My First Telegram Bot I am so excited hehehheehehhe**. So this is a simple yet engaging Telegram bot built using **Node.js**, **Python**, and the **Telegraf API**. It delivers random motivational quotes and developer jokes to users, along with an intuitive inline keyboard to navigate through content. The bot is ideal for adding a dose of motivation or humor to your day.
 
 ## 🚀 Try the Bot
 
